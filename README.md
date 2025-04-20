@@ -18,7 +18,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Sarc-Kil/proect_1.git
+   git clone https://github.com/Sarc-Kil/proect_4.git
     ```
    2. Откройте проект в Visual Studio:
    - Запустите Visual Studio.
